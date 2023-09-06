@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Pós UMC - LaBiOmicS
 description: Laboratory of Bioinformatics and Omic Sciences.
-logo: images/logo.svg
+logo: images/logotipo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /
