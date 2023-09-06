@@ -1,8 +1,8 @@
 ---
 name: Paulo Takao
 image: images/male.png
-description: Associate Investigator
-role: pa
+description: Masters Student
+role: master
 aliases:
   - Paulo Salarola Takao
   - Paulo S. Takao
