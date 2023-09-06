@@ -1,0 +1,35 @@
+pi:
+  icon: fas fa-hand-spock
+  text: Principal Researcher
+  
+pa:
+  icon: fas fa-jedi
+  text: Associate Researcher
+  
+pc:
+  icon: fas fa-jedi
+  text: Collaborating Researcher
+
+postdoc:
+  icon: fas fa-microscope
+  text: Postdoctoral Researcher
+
+phd:
+  icon: fas fa-graduation-cap
+  text: PhD Degree Student
+
+master:
+  icon: fas fa-graduation-cap
+  text: Masters Degree Student
+
+undergrad:
+  icon: fas fa-user-graduate
+  text: Undergraduate Degree Student
+
+programmer:
+  icon: fas fa-code
+  text: Programmer
+
+mascot:
+  icon: fas fa-dog
+  text: Mascot
