@@ -1,7 +1,7 @@
 ---
 name: David Aciole
 image: images/male.png
-description: Associate Investigator
+description: Associate Researcher
 role: pa
 aliases:
   - David Aciole Barbosa
